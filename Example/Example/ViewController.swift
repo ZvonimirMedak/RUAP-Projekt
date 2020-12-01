@@ -11,7 +11,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        let string = "Pozdrav ja sam Zvonimir Medak"
+        let string = "Pozdrav ja sam Zvonimir Medak s indexom od 91283182123"
         // Do any additional setup after loading the view.
     }
     
